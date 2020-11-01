@@ -1,4 +1,4 @@
-# GH 3d platformer game
+# GH 3D platformer game
 3D platformer game for my genius hour project
 ***
 [![Download The game](https://badgen.net/badge/Download/Download/?color=blue&icon=windows&label)](https://github.com/rcaudillo/GH-3d-platformer/releases)
