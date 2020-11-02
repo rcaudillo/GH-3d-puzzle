@@ -1,5 +1,5 @@
-# GH 3D platformer game
-3D platformer game for my genius hour project
+# GH 3D obstace run
+3D obstace run game for my genius hour project
 ***
 [![Download The game](https://badgen.net/badge/Download/Download/?color=blue&icon=windows&label)](https://github.com/rcaudillo/GH-3d-platformer/releases)
 [![License](https://badgen.net/badge/license/MIT/cyan)](https://github.com/rcaudillo/GH-3d-platformer/blob/main/LICENSE)
