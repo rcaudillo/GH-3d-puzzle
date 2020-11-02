@@ -1,5 +1,5 @@
-# GH 3D obstacle run
-3D obstacle run game for my genius hour project
+# GH 3D obstacle run with good graphics
+I will make a 3d obstacle run game with good graphics. It wil be made in unity
 ***
 ### NOTICE - Source Code Files Will Be Uploaded when the game is done.
 ***
