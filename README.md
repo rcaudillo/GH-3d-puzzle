@@ -16,5 +16,6 @@
 * CPU - Intel® Core™ i5 / AMD Ryzen 5 3600
 * RAM - 16 GB
 * GPU - GeForce GTX 970 / Radeon RX 570
+* STORAGE - N/A
 ***
 ### NOTICE - Source Code Files Will Be Uploaded when the game is done.
