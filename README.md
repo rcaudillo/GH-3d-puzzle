@@ -6,7 +6,7 @@
 * Report a bug or suggest a feature [here](https://github.com/rcaudillo/GH-3d-platformer/issues)
 ***
 ### Description
-* I will make a 3D obstacle run game with good graphics. It will be made in unity. I have made many games before but most of them were low polly and not even HD. For this project,i will be using the unity HDRP(High Definition Render Pipline) for graphics and the unity asset store for HD assets. Since the game will be HD you may requeire a powerfull computer to run it. The minimum specs for efficiently running the game are listed [bellow](* The game will be in first person)
+* I will make a 3D obstacle run game with good graphics. It will be made in unity. I have made many games before but most of them were low polly and not even HD. For this project,i will be using the unity HDRP(High Definition Render Pipline) for graphics and the unity asset store for HD assets. Since the game will be HD you may requeire a powerfull computer to run it. The minimum specs for efficiently running the game are listed [bellow](https://github.com/rcaudillo/GH-3d-obstacle-run/blob/main/README.md#minimum-requirements)
 ### Support
 * Windows x64_86
 * The game will be in first person
