@@ -4,7 +4,7 @@
 [![View the wiki](https://badgen.net/badge/View%20The/WIKI/orange)](https://github.com/rcaudillo/GH-3d-platformer/wiki)
 [![View the log](https://badgen.net/badge/View%20The/LOG/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1)
 * Report a bug or suggest a feature [here](https://github.com/rcaudillo/GH-3d-platformer/issues)
-* View documentation [here](https://github.com/rcaudillo/GH-3d-puzzle/projects/1#column-11595577) (School account required to view)
+* View documentation [here](https://www.youtube.com/playlist?list=PLYIa68xe8cMtPRi5PaqCigZcVCKDTgjV-)
 ***
 ### Description
 * I will make a 3D puzzle run game with good graphics. It will be made in unity. I have made many games before but most of them were low polly and not even HD. For this project,i will be using the unity HDRP(High Definition Render Pipline) for graphics and the unity asset store for HD assets. Since the game will be HD you may require a powerfull computer to run it. The minimum specs for efficiently running the game are listed [bellow](https://github.com/rcaudillo/GH-3d-obstacle-run/blob/main/README.md#minimum-requirements)
