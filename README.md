@@ -14,7 +14,7 @@
 * The game will be in first person
 ### Minimum Requirements
 * CPU - Intel® Core™ i5 / AMD Ryzen 5 3600
-* RAM - 16 GB
+* RAM - 8 GB
 * GPU - GeForce GTX 970 / Radeon RX 570
 * STORAGE - N/A
 ***
