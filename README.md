@@ -4,7 +4,7 @@
 [![License](https://badgen.net/badge/license/MIT/cyan)](https://github.com/rcaudillo/GH-3d-platformer/blob/main/LICENSE)
 [![View the wiki](https://badgen.net/badge/View%20The/WIKI/orange)](https://github.com/rcaudillo/GH-3d-puzzle/wiki)
 [![View the documantion](https://badgen.net/badge/View%20The/DOCUMENTATION/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1)
-* View the documentation [here](https://badgen.net/badge/View%20The/DOCUMENTATION/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1) or the full playlist [here]()
+* View the documentation [hre](https://badgen.net/badge/View%20The/DOCUMENTATION/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1) or the full playlist [here]()
 * View the devlog [here](https://rcaudillo.itch.io/gh-project-3d-puzzle-run/devlog)
 ***
 ### Description
