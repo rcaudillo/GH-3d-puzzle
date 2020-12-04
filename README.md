@@ -1,4 +1,4 @@
-# GH 3D puzzle run with good graphics
+# Puzzle and natative game with good graphics
 [![Game Page](https://badgen.net/badge/Go%20To%20The/HOME%20PAGE/orange)](https://rcaudillo.itch.io/gh-project-3d-puzzle-run)
 [![Download The game](https://badgen.net/badge/Download/Direct%20Download/?color=blue&icon=windows&label)](https://rcaudillo.itch.io/gh-project-3d-puzzle-run/download/q2PJ_b_uFuHjj1DFHP9_xbZQPPaGwHj2apeXechY)
 [![License](https://badgen.net/badge/license/MIT/cyan)](https://github.com/rcaudillo/GH-3d-platformer/blob/main/LICENSE)
