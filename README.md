@@ -9,7 +9,7 @@
 ***
 ### Description
 * I will make a 3D puzzle run game with good graphics. It will be made in unity. I have made many games before but most of them were low polly and not even HD. For this project,i will be using the unity HDRP(High Definition Render Pipline) for graphics and the unity asset store for HD assets. Since the game will be HD you may require a powerfull computer to run it. The minimum specs for efficiently running the game are listed [bellow](https://github.com/rcaudillo/GH-3d-obstacle-run/blob/main/README.md#minimum-requirements)
-* In this game you will have to solve puzzles to get to the next level. You can purchase abilities to help with finding and solving the puzzles
+* This is a narative game where you play as an archeologist trying to find an ancianet tomb, you have to help him solve puzzles and succeeded in finding the tomb.
 ### Support
 * Windows x64_86
 * The game will be in first person
