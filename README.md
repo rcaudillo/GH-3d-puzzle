@@ -6,6 +6,6 @@
 [![View the documantion](https://badgen.net/badge/View%20The/DOCUMENTATION/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1)
 * View the documentation [here](https://github.com/rcaudillo/GH-3d-platformer/projects/1) or the full playlist [here]()
 * View the devlog [here](https://rcaudillo.itch.io/gh-project-3d-puzzle-run/devlog)
-<iframe frameborder="0" src="https://itch.io/embed/841895?border_width=5&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="560" height="175"><a href="https://rcaudillo.itch.io/gh-project-3d-treasure-run">Treasure run by rcaudillo</a></iframe>
+`<iframe frameborder="0" src="https://itch.io/embed/841895?border_width=5&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="560" height="175"><a     href="https://rcaudillo.itch.io/gh-project-3d-treasure-run">Treasure run by rcaudillo</a></iframe>`
 ***
 ### NOTICE - The game's home page has been switched to itch.io, you can go to it [here](https://rcaudillo.itch.io/gh-project-3d-puzzle-run) or click on the buttons above
