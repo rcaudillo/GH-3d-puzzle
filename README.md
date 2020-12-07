@@ -6,5 +6,5 @@
 [![View the documantion](https://badgen.net/badge/View%20The/DOCUMENTATION/orange)](https://github.com/rcaudillo/GH-3d-platformer/projects/1)
 * View the documentation [here](https://github.com/rcaudillo/GH-3d-platformer/projects/1) or the full playlist [here]()
 * View the devlog [here](https://rcaudillo.itch.io/gh-project-3d-puzzle-run/devlog)
-
-
+***
+### NOTICE - The game's home page has been switched to itch.io, you can go to it [here](https://rcaudillo.itch.io/gh-project-3d-puzzle-run) or click on the buttons above
